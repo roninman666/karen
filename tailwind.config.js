@@ -13,6 +13,9 @@ module.exports = {
 
     },
     extend: {
+      backgroundImage: {
+        'back_map': "url('/src/sssa.webp')"
+      },
       fontFamily:{
         body:['Outfit']
       }
